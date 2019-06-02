@@ -17,3 +17,4 @@ secondsLeft = secondsLeft % 60;
 
 console.log(seconds + ' seconds total');
 console.log(seconds / 60 + ' minutes total');
+console.log(seconds / 60 / 60 + ' hours total');
