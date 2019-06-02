@@ -11,3 +11,9 @@ ul {
     padding: 0;
     text-align: center;
 }
+li {
+    border: solid black;
+    padding: 10px;
+    margin: 5px 5px;
+    background-color: white;
+}
