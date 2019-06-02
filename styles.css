@@ -28,3 +28,10 @@ h2 {
 a {
     text-decoration-color: black;
 }
+img{
+    display: block;
+    margin: auto;
+    min-width: 80%;
+    max-width: 80%;
+    margin-bottom: 50px;
+}
