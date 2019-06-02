@@ -25,3 +25,6 @@ h2 {
     margin-left: 10px;
     color: black;
 }
+a {
+    text-decoration-color: black;
+}
